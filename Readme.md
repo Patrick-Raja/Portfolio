@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://patrick-raja.github.io/patricksportfolio.github.io/
+> https://patrick-raja.github.io/portfolio/
 
 ## Features 📋
 ⚡️ Fully Responsive\
